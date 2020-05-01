@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700);
+@import url('https://fonts.googleapis.com/css?family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Nanum+Gothic+Coding&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500&display=swap');
+
+
+body { font-family: 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', 'Nanum Gothic Coding', serif; }
+
+h1, h2, h3 {
+  font-family: 'Noto Sans KR';
+  font-weight: 500;
+}
+
+
+
+
+.remark-code, .remark-inline-code { font-family: 'Source Code Pro', 'Lucida Console', Monaco, monospace, 'Noto Sans KR'; }
